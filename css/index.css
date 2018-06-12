@@ -1,0 +1,37 @@
+/* CSS Document */
+.A {
+	width:250px;
+	height:605px;;
+}
+.B{
+	width:250px;
+	height:605px;
+	text-align: center;
+	font-size: 35px;
+}
+.B ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.B ul li a {
+	padding-top:26px;
+	padding-bottom:26px;
+	display:block;
+	color:rgba(7,241,41,1.00);
+	line-height:50px;
+	text-decoration: none;
+}
+.B ul li a:hover{
+	background:rgba(7,241,41,1.00);
+	color:rgba(0,0,0,1.00);
+	text-decoration: none;
+}
+.C{
+	height: 150px;
+	width: 100%;
+	font-size: 50px;
+	text-align: center;
+	background: rgba(116,233,122,1.00);
+	color: rgba(255,255,255,1.00);
+}
